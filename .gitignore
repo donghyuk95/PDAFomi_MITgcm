@@ -1,0 +1,12 @@
+### dhkim ignore file ##
+
+*.o
+*.f
+*.nc
+
+/code_test
+/build_test
+/run_test
+
+/build_pdaf
+/run_pdaf
